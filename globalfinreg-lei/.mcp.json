@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "globalfinreg": {
+      "type": "http",
+      "url": "https://api2.globalfinreg.com/mcp/account"
+    }
+  }
+}

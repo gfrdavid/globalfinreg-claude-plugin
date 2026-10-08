@@ -1,0 +1,11 @@
+{
+  "name": "globalfinreg-lei",
+  "version": "1.0.0",
+  "description": "Look up, register, renew and transfer LEIs (Legal Entity Identifiers) with Global FinReg.",
+  "author": {
+    "name": "Global FinReg",
+    "url": "https://globalfinreg.com"
+  },
+  "homepage": "https://globalfinreg.com",
+  "keywords": ["lei", "legal entity identifier", "gleif", "compliance", "kyc", "regulatory"]
+}

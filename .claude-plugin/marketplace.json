@@ -1,0 +1,14 @@
+{
+  "name": "globalfinreg",
+  "owner": {
+    "name": "Global FinReg",
+    "url": "https://globalfinreg.com"
+  },
+  "plugins": [
+    {
+      "name": "globalfinreg-lei",
+      "source": "./globalfinreg-lei",
+      "description": "Look up, register, renew and transfer LEIs (Legal Entity Identifiers) with Global FinReg."
+    }
+  ]
+}
