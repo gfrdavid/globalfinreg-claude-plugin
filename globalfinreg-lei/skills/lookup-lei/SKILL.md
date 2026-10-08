@@ -5,7 +5,7 @@ description: Use when the user wants to find, check or verify a company's LEI (L
 
 # Look up an LEI
 
-These tools read the public global LEI register and Global FinReg's price list, so they need no account. The plugin connects to Global FinReg's signed-in endpoint, though, so the first time it is used the user is asked to sign in to Global FinReg (or create an account) before any tool, including these, can run.
+These tools need no sign-in.
 
 1. To find a company's LEI, call `search_lei_by_company_name` with the company name. If several match, show the name, country, LEI and status of each, and ask which one is meant.
 2. For full details on a known LEI, call `get_lei_record`. Report the legal name, registered address, status, next renewal date and managing LOU.

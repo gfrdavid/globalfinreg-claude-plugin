@@ -1,5 +1,6 @@
 {
   "name": "globalfinreg",
+  "description": "Global FinReg plugins for Claude",
   "owner": {
     "name": "Global FinReg",
     "url": "https://globalfinreg.com"

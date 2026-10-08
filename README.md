@@ -7,11 +7,11 @@ Look up, register, renew and transfer LEIs (Legal Entity Identifiers) with Globa
     /plugin marketplace add gfrdavid/globalfinreg-claude-plugin
     /plugin install globalfinreg-lei@globalfinreg
 
-The first time you use the plugin, you'll be asked to sign in to your Global FinReg account (or create one). After that, all tools work without signing in again.
+You'll be asked to sign in to your Global FinReg account the first time an account action is needed.
 
 ## What it does
 
-- **Lookup**: find any company's LEI and check its status in the global LEI register
+- **Lookup**: find a company's LEI and check its status (no sign-in needed)
 - **Register**: apply for a new LEI, upload documents and pay by card link or invoice
 - **Renew**: see expiring LEIs and renew them
 - **Transfer**: move an LEI from another provider to Global FinReg
